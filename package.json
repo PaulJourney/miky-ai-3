@@ -19,6 +19,8 @@
     "@sendgrid/mail": "^8.1.5",
     "@stripe/stripe-js": "^7.8.0",
     "@supabase/supabase-js": "^2.54.0",
+    "autoprefixer": "^10.4.21",
+    "canvas": "^3.2.0",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
     "dotenv": "^17.2.1",
@@ -27,6 +29,7 @@
     "next": "^15.3.2",
     "next-intl": "^4.3.4",
     "openai": "^5.12.2",
+    "postcss": "^8.5.3",
     "react": "^18.3.1",
     "react-calendar": "^6.0.0",
     "react-dom": "^18.3.1",
@@ -35,11 +38,9 @@
     "same-runtime": "^0.0.1",
     "stripe": "^18.4.0",
     "tailwind-merge": "^3.3.0",
+    "tailwindcss": "^3.4.17",
     "tailwindcss-animate": "^1.0.7",
-    "uuid": "^11.1.0",
-    "autoprefixer": "^10.4.21",
-    "postcss": "^8.5.3",
-    "tailwindcss": "^3.4.17"
+    "uuid": "^11.1.0"
   },
   "devDependencies": {
     "@biomejs/biome": "1.9.4",
