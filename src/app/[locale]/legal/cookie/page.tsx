@@ -1,4 +1,5 @@
 'use client'
+export const dynamic = "force-static";
 
 import { useTranslations } from 'next-intl'
 import { Logo } from '@/components/Logo'
